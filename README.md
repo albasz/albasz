@@ -48,16 +48,22 @@ Atualmente, estou focado em desenvolver projetos mais avançados para fortalecer
 
 <div align="center">
   <a href="https://www.linkedin.com/in/kauan-alba-elias-96878627a/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40"/>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" />
   </a>
+  <img width="12" />
+
   <a href="https://www.instagram.com/k.albas.6/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40"/>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" />
   </a>
+  <img width="12" />
+
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kauanalba6@gmail.com&su=Contato%20profissional" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40"/>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" />
   </a>
+  <img width="12" />
+
   <a href="https://discord.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40"/>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" />
   </a>
 </div>
 
@@ -67,21 +73,7 @@ Atualmente, estou focado em desenvolver projetos mais avançados para fortalecer
   <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=AA0000"/>
 </div>
 
-###
-
 <div align="center">
   <img height="300" src="https://64.media.tumblr.com/9fdbb16c947229b02d9059745af0dc0e/aece03664349fbf0-e5/s540x810/a8e51d0bff1740c91c6908a769947b1a55b4f343.gifv"/>
 </div>
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=AA0000"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="300" src="https://64.media.tumblr.com/9fdbb16c947229b02d9059745af0dc0e/aece03664349fbf0-e5/s540x810/a8e51d0bff1740c91c6908a769947b1a55b4f343.gifv"  />
-</div>
-
 ###
