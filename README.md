@@ -76,4 +76,3 @@ Atualmente, estou focado em desenvolver projetos mais avançados para fortalecer
 <div align="center">
   <img height="300" src="https://64.media.tumblr.com/9fdbb16c947229b02d9059745af0dc0e/aece03664349fbf0-e5/s540x810/a8e51d0bff1740c91c6908a769947b1a55b4f343.gifv"/>
 </div>
-###
