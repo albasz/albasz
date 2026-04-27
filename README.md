@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="center">Sobre mim</h2>
 
 ###
 
@@ -64,19 +64,3 @@
 </div>
 
 ###
-
-### 📊 Estatísticas
-
-<p align="center">
-  <img 
-    alt="Top Langs" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=albasz&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=5" 
-  />
-
-  <img 
-    alt="GitHub Stats" 
-    src="https://github-readme-stats.vercel.app/api?username=albasz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-</p>
-
----
